@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ScriptBaseExtended/ScriptBaseExtended.csproj" />
+  <Project Path="ScriptBaseExtendedTools/ScriptBaseExtendedTools.csproj" />
+</Solution>
